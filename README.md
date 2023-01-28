@@ -13,4 +13,4 @@
 - Expirically evaluates the effect of non iid data distribution, label flipping, adversarial inputs, and gradient manipulations on the overall performance of the model. 
 - Implements an RL based dynamically adapting weighting system to handle non iid data distribution, differential privacy and adversarial training to protect from various attacks. 
 
-For more information about the project and the results: Final_Presentation and MTP_Thesis
+For more information about the project and the results: [Final_Presentation](./Final_Presentation.pptx) and [MTP_Thesis](./MTP_Thesis.pdf)
